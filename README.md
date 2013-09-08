@@ -1,4 +1,4 @@
 bit-quest
 =========
 
-Bit-Quest.net, A Open Source computer hacking game
+Bit-Quest.net, an open-sourced computer hacking game, originally started by Ryan. The project is currently on hold.
